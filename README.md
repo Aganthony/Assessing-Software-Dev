@@ -1,6 +1,6 @@
 
 
-### Assignment 3: Assessing Software and Systems
+### Assessing Software and Systems
 
 #### What do I know?
 In the area of Software and Systems, I have gained strong proficiency in a range of tools and technologies. I am highly skilled in Python for developing system applications and scripting, and I have extensive experience using SQL and SQLite for managing and manipulating databases. My expertise in Git and GitHub allows me to manage version control efficiently, supporting smooth collaboration and effective code management. Visual Studio Code (VS Code) is my primary development environment, where I leverage its debugging features and extensions to boost productivity. Additionally, I have experience designing and building system applications that are both efficient and scalable, with seamless integration to databases and APIs. Overall, my skills are focused on developing reliable and well-organized software solutions.
