@@ -1,6 +1,4 @@
-# NAME: Amarachi Anthony
-# BUFF ID: 1130441
-## COURSE: MS-CISBA Capstone
+
 
 ### Assignment 3: Assessing Software and Systems
 
