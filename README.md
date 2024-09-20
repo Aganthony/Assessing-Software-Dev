@@ -1,5 +1,3 @@
-
-
 ### Assessing Software and Systems
 
 #### What do I know?
